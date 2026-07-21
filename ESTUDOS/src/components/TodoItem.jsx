@@ -1,3 +1,5 @@
+import "./TodoItem.css";
+
 function TodoItem({ todo, onToggle, onRemove }) {
   return (
     <li className="todo-item">
@@ -7,10 +9,7 @@ function TodoItem({ todo, onToggle, onRemove }) {
         checked={todo.done}
         onChange={() => onToggle(todo.id)}
       />
-      <span
-        className="todo-item__label"
-        style={{ textDecoration: todo.done ? "line-through" : "none" }}
-      >
+      <span className="todo-item__label" data-done={todo.done}>
         {todo.text}
       </span>
       <button
