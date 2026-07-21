@@ -27,7 +27,6 @@
   word-break: break-word;
 }
 
-.todo-item--done .todo-item__label,
 .todo-item__label[data-done="true"] {
   color: var(--color-muted);
   text-decoration: line-through;
