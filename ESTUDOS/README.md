@@ -95,3 +95,7 @@ Ideias para evoluir o projeto:
 - As tarefas ficam apenas em memória — **recarregar a página zera a lista**
   (sem persistência ainda).
 - Projeto de estudo; não usa bibliotecas de estado ou UI externas.
+
+
+## Finalizando Dia 1
+- 10 Commits enviados 
