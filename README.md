@@ -95,3 +95,19 @@ Ideias para evoluir o projeto:
 - As tarefas ficam apenas em memória — **recarregar a página zera a lista**
   (sem persistência ainda).
 - Projeto de estudo; não usa bibliotecas de estado ou UI externas.
+
+## Dia 1 
+
+- 10 Commits Feitos
+
+## Dia 2
+
+- Criação da pagina pessoal de apresentação HTML
+
+## Dia 3 
+
+- Criação do arquivo CSS e conexão com página HTML
+- Estilização do `header`
+- Estilização do `main`
+- Estilização do `footer`
+- Commits separados para cada bloco
